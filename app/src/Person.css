@@ -5,7 +5,8 @@ div.app section{
 
 div.app section p.name {
    padding: 1% 0;
-    text-align: center;
+ 
+   text-align: center;
 }
 
 div.app section div.description{
