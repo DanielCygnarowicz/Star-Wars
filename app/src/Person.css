@@ -1,0 +1,160 @@
+div.app section{
+    color: #777;
+    font-size: 16px;
+}
+
+div.app section p.name {
+   padding: 1% 0;
+    text-align: center;
+}
+
+div.app section div.description{
+    display: flex;
+   flex-wrap: wrap;
+    flex-direction: column;
+    width: 50%;
+    padding: 5px;
+   align-items: center;
+}
+
+div.app section div.description p{
+    text-align: center;
+    font-size: 14px;
+    width: 90%;  
+}
+
+section.character div.red{
+        background-image: url("./Img/red360x39.png");
+        width: 100%;
+        height: 20px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+
+div.app section div.description p span{
+    display: inline-block;
+}
+
+div.app section div.description p span::first-letter{
+  text-transform: uppercase;
+ 
+}
+
+div.app section div.wrapper div.photo {
+   width: 100px;
+   height: 100px;
+   margin: auto;
+   background-image: url("./Img/koperta100.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+div.app section div.wrapper{
+    padding: 5px 0; 
+    display: flex;
+}
+
+@media(min-width: 360px){
+    section.character div.red{
+        height: 25px;}
+}
+
+@media(min-width:480px){
+    div.app section div.description{
+max-height: 120px;
+width: 70%;
+}
+
+div.app section div.description p{
+   
+   width: 49%;
+   padding: 2px 0;
+   font-size: 16px;
+}
+
+div.app section div.wrapper{
+        padding: 5px 0 20px 0 ; 
+    }
+}
+
+@media(min-width:640px){
+
+ div.app section{
+        font-size: 22px;
+    }
+div.app section div.description{
+        
+        max-height: 160px;   
+        }
+div.app section div.description p{
+        font-size: 22px;}
+
+div.app section div.wrapper{
+    padding: 15px 0 30px 0 ; 
+}
+
+div.app section div.wrapper div.photo {
+    width: 150px;
+    height: 150px;
+    background-image: url("./Img/koperta150.png");  
+}
+
+section.character div.red{
+    background-image: url("./Img/red768x61.png");
+    width: 100%;
+    height: 38px;}
+}
+
+@media(min-width:768px){
+
+    div.app section{
+        font-size: 26px;
+    }
+
+    div.app section div.description{
+        
+        max-height: 160px;   
+        }
+        
+    div.app section div.description p{
+        font-size: 26px;}
+
+div.app section div.wrapper{
+    padding: 25px 0 40px 0 ; 
+}
+}
+
+@media(min-width:1024px){
+
+    div.app section{
+        font-size: 30px;
+    }
+    div.app section div.description{
+        
+        max-height: 200px;   
+        }
+    div.app section div.description p{
+        font-size: 30px;}
+
+div.app section div.wrapper{
+    padding: 35px 0 50px 0 ; 
+}
+div.app section div.wrapper div.photo {
+    width: 220px;
+    height: 220px;
+    background-image: url("./Img/koperta220.png");  
+}
+section.character div.red{
+    background-image: url("./Img/red1024x81.png");
+    width: 100%;
+    height: 70px;}
+}
+
+@media(min-width:1024px){
+
+div.app section div.wrapper{
+    padding: 45px 0 60px 0 ; 
+}
+}
