@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Star-Wars/Source/static/css/main.2124d961.chunk.css",
-    "main.js": "/Star-Wars/Source/static/js/main.6717b933.chunk.js",
-    "main.js.map": "/Star-Wars/Source/static/js/main.6717b933.chunk.js.map",
-    "runtime~main.js": "/Star-Wars/Source/static/js/runtime~main.287c63c5.js",
-    "runtime~main.js.map": "/Star-Wars/Source/static/js/runtime~main.287c63c5.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/Star-Wars/Source/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/Star-Wars/Source/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/Star-Wars/Source/index.html",
-    "precache-manifest.2fe59d93fdc66cdf797f06647e8d003f.js": "/Star-Wars/Source/precache-manifest.2fe59d93fdc66cdf797f06647e8d003f.js",
-    "service-worker.js": "/Star-Wars/Source/service-worker.js",
-    "static/css/main.2124d961.chunk.css.map": "/Star-Wars/Source/static/css/main.2124d961.chunk.css.map",
-    "static/media/App.css": "/Star-Wars/Source/static/media/blue768.9125e787.png",
-    "static/media/Person.css": "/Star-Wars/Source/static/media/red768x61.f0b9ed49.png"
+    "main.css": "/Star-Wars/static/css/main.deddf250.chunk.css",
+    "main.js": "/Star-Wars/static/js/main.6717b933.chunk.js",
+    "main.js.map": "/Star-Wars/static/js/main.6717b933.chunk.js.map",
+    "runtime~main.js": "/Star-Wars/static/js/runtime~main.47cb02c2.js",
+    "runtime~main.js.map": "/Star-Wars/static/js/runtime~main.47cb02c2.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Star-Wars/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Star-Wars/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Star-Wars/index.html",
+    "precache-manifest.8cde0bf5ec62544eb9fa019438ea0699.js": "/Star-Wars/precache-manifest.8cde0bf5ec62544eb9fa019438ea0699.js",
+    "service-worker.js": "/Star-Wars/service-worker.js",
+    "static/css/main.deddf250.chunk.css.map": "/Star-Wars/static/css/main.deddf250.chunk.css.map",
+    "static/media/App.css": "/Star-Wars/static/media/blue768.9125e787.png",
+    "static/media/Person.css": "/Star-Wars/static/media/red768x61.f0b9ed49.png"
   }
 }
